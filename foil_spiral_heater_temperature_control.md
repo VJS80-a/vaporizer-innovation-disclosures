@@ -2,7 +2,7 @@
 
 **Author**: Ville Johannes Savolainen  
 **Date**: April 19, 2025  
-
+**Disclosure Type**: Public Prior Art 
 ---
 
 The foil spiral heater is typically controlled using **PWM (Pulse Width Modulation)**. Temperature is estimated by observing the increasing resistance of the foil as it heats up — a property that changes predictably with temperature in materials like stainless steel. This resistance is monitored by the microcontroller, and temperature is calculated in software.
@@ -37,3 +37,7 @@ By combining software-driven estimation and multiple sensing strategies, we can:
 - Support the use of alternative foil materials beyond stainless steel
 
 These methods allow for greater flexibility and precision in applications requiring consistent thermal output, such as inhalation-based systems or portable heating units.
+
+## Intent
+
+This disclosure is published to establish prior art and prevent exclusive patent claims on foil spiral heater temperature control systems. This includes methods involving resistance-based temperature estimation, power and airflow-based thermal modeling, and optional use of thermocouples, NTCs, or infrared sensors for improving accuracy and stability.
