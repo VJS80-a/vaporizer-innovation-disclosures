@@ -2,7 +2,7 @@
 
 **Inventor**: Ville Johannes Savolainen  
 **Date**: April 19, 2025  
-
+**Disclosure Type:** Public Prior Art
 ---
 
 ## Background
@@ -51,3 +51,9 @@ These stages can be **communicated to the user via haptic feedback**, resulting 
 ## Summary
 
 This innovation offers a **highly durable**, **flexible**, and **intuitive** button mechanism that addresses long-standing issues in portable vaporizer design. It enhances device longevity while enabling advanced input interactions.
+
+---
+
+## Intent
+
+This disclosure is published to establish prior art and prevent exclusive patent claims on the use of magnetically-actuated solid state buttons with magnetic sensors for portable vaporizers. It includes features such as multi-level press detection and haptic feedback, designed to enhance durability and interaction quality in harsh environments.
