@@ -30,4 +30,6 @@ All disclosures are shared openly to promote innovation and safeguard freedom to
 - `solid_state_button_vaporizer.md` – Durable button design using magnetic sensor and magnet movement for multi-stage tactile control and haptic feedback.
 - `heat_exchanger_vapor_cooling_disclosure.md` – Passive or assisted heat exchanger techniques for improving cooling airflow and surface heat distribution.
 - ir_convection_conduction_hybrid_heater_disclosure.md
-  
+  - `spiral_heater_assembly_improvement_with_image.md` – Structural optimization allowing longer support rods to pass through the self-wrapped foil tube, simplifying heater assembly, improving alignment, and reducing production difficulty.
+  - ![Heater Assembly Diagram](heater-design.png)
+
