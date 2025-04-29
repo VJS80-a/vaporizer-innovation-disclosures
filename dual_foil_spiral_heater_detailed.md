@@ -80,6 +80,7 @@ This section expands on the core disclosure to ensure coverage of a wide range o
   - Interleaved
   - Stacked flat
   - Twisted or layered in parallel but not physically touching
+  - A single foil may also be longitudinally split into two or more electrically isolated paths along its height (e.g., forming two 15 mm high strips from a 30 mm tall foil), maintaining the same spiral shape and footprint. These strips can be arranged side-by-side within the same cylindrical heater space, separated only by an insulating slit or gap. Though visually similar to a conventional single-foil heater, such a configuration enables dual-circuit operation with reduced peak current draw and independent or combined power control.Such split-foil designs may appear nearly identical to single-foil spirals but behave as dual heating paths for current control.
 
 ### 2. Electrical Configurations
 
